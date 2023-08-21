@@ -1,0 +1,3 @@
+pyheif
+pillow
+streamlit
