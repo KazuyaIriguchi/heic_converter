@@ -1,3 +1,2 @@
-pyheif
-pillow
-streamlit
+pyheif==0.7.1
+streamlit==1.25.0

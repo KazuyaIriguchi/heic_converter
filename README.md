@@ -23,3 +23,13 @@ python -m venv .venv
 source .venv/bin/activate
 streamlit run app.py
 ```
+
+http://localhost:8501 にアクセス
+
+## Docker
+
+```bash
+docker-compose up --build
+```
+
+http://localhost:8501 にアクセス
